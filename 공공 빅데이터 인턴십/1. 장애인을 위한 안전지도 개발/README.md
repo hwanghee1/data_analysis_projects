@@ -33,6 +33,6 @@
 >2. 장애인안전지도에서 안전시설이 부족한 지역에 관련시설을 추가적으로 설치
 
 
-## 기타. 안전지도 시각화
+## 기타. 시각화
 ![image](https://user-images.githubusercontent.com/46258393/109459346-f4c7f300-7aa1-11eb-8b95-7ea0d241bafb.png)
 ![image](https://user-images.githubusercontent.com/46258393/109459377-00b3b500-7aa2-11eb-925b-7b13146b7507.png)
