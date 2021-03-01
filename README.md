@@ -16,5 +16,5 @@
 > 2. 
 > 
 
-# 운영중인 블로그
+## 운영중인 블로그
 - [Crab's AI](https://hh-bigdata-career.tistory.com/) : 주로 공부한 내용을 올립니다.
