@@ -1,7 +1,7 @@
 # 데이터 분석 프로젝트
 참여했던 데이터분석 프로젝트들에 대해 요약한 repository입니다.
 
-## Dacon 분석 경진대회 : ~ Cur
+## Dacon 분석 경진대회 : ~ 현재
 > 1. 태양광 발전량 예측 - [링크](https://github.com/hwanghee1/data_analysis_projects/tree/main/Dacon/1.%20%ED%83%9C%EC%96%91%EA%B4%91%20%EB%B0%9C%EC%A0%84%EB%9F%89%20%EC%98%88%EC%B8%A1)
 > 2. 시스템 품질 변화로 인한 사용자 불편 예지 - [링크](https://github.com/hwanghee1/data_analysis_projects/tree/main/Dacon/2.%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%92%88%EC%A7%88%20%EB%B3%80%ED%99%94%EB%A1%9C%20%EC%9D%B8%ED%95%9C%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%B6%88%ED%8E%B8%20%EC%98%88%EC%A7%80)
 
