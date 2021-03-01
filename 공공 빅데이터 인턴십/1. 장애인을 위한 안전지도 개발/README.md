@@ -11,7 +11,19 @@
 * 장애인 스스로 안전을 지킬 수 있도록 도움
 * 장애인 사고위험지역에 사고를 예방할 수 있는 정책 마련 근거 제시
 
-## 3. 분석결과 활용 방안
+## 3. 사용 데이터
+![image](https://user-images.githubusercontent.com/46258393/109458778-d9101d00-7aa0-11eb-8e75-ece040c269ee.png)
+
+## 4. 분석 프로세스
+![image](https://user-images.githubusercontent.com/46258393/109458922-1aa0c800-7aa1-11eb-885a-defcee59276b.png)
+
+## 5. 모델 수립
+* 평가 지표 : AUC로 지정
+* Logistic Regression, Lightgbm, Random forest 모델 비교
+* Logistic Regression의 AUC가 가장 좋음
+* Logistic Regression을 통해 도출된 계수를 각 위험지수의 가중치로 부여함
+
+## 6. 분석결과 활용 방안
 * 장애인 관점 활용방안
 >1. 장애인안전지도를 참고해서 장애인 스스로 교통·안전 정보를 얻어 잠재적인 위험에 대처할 수 있도록 함
 >2. 보행위험지수, 지하철위험지수를 참고해서 장애인에게 보행위험, 지하철위험 요소에 대해 인지할 수 있도록 함
@@ -19,3 +31,8 @@
 * 국가적 관점 활용방안
 >1. 현재 장애인 보호구역을 사고발생 위험도가 높은 장애인 사고위험지역으로 재선정
 >2. 장애인안전지도에서 안전시설이 부족한 지역에 관련시설을 추가적으로 설치
+
+
+## 기타. 안전지도 시각화
+![image](https://user-images.githubusercontent.com/46258393/109459346-f4c7f300-7aa1-11eb-8b95-7ea0d241bafb.png)
+![image](https://user-images.githubusercontent.com/46258393/109459377-00b3b500-7aa2-11eb-925b-7b13146b7507.png)
