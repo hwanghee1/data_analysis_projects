@@ -7,7 +7,7 @@
 > 3. 소방차 진입로 확보를 위한 불법 주정차 우선예방지역 선정 - [링크](https://github.com/hwanghee1/data_analysis_projects/tree/main/%EA%B3%B5%EA%B3%B5%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9D%B8%ED%84%B4%EC%8B%AD/3.%20%EC%86%8C%EB%B0%A9%EC%B0%A8%20%EC%A7%84%EC%9E%85%EB%A1%9C%20%ED%99%95%EB%B3%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%B6%88%EB%B2%95%20%EC%A3%BC%EC%A0%95%EC%B0%A8%20%EC%9A%B0%EC%84%A0%EC%98%88%EB%B0%A9%EC%A7%80%EC%97%AD%20%EB%8F%84%EC%B6%9C)
 
 ## 2020 데이터 청년 캠퍼스 : 2020.07 ~ 2020.08
-> 1. PCB 노광공정 파티클 관리 최적화 분석 - [링크]()
+> 1. PCB 노광공정 파티클 관리 최적화 분석 - [링크](https://github.com/hwanghee1/data_analysis_projects/tree/main/2020%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B2%AD%EB%85%84%20%EC%BA%A0%ED%8D%BC%EC%8A%A4/PCB%20%EB%85%B8%EA%B4%91%EA%B3%B5%EC%A0%95%20%ED%8C%8C%ED%8B%B0%ED%81%B4%20%EA%B4%80%EB%A6%AC%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EB%B6%84%EC%84%9D)
 
 ## Dacon 분석 경진대회
 > 1. 태양광 발전량 예측 대회 - [링크]()
