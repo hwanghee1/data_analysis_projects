@@ -28,10 +28,14 @@
 
 
 ## 기타. 시각화
-1. 설치지수 분포
+1. 설치지수 분포  
+
+
 ![image](https://user-images.githubusercontent.com/46258393/109467872-2a270d80-7aaf-11eb-8e58-aa9bb94d4476.png)
 
-2. 설치지수 상위 100개 지점 온도지도
+2. 설치지수 상위 100개 지점 온도지도  
+
+
 ![image](https://user-images.githubusercontent.com/46258393/109467972-52167100-7aaf-11eb-80db-3f6cf24a8c3c.png)
 
 
