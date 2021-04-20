@@ -25,7 +25,7 @@
 
 ## 3. 분석 프로세스
 
-
+# (수정중)
 ## 5. 모델 수립
 * 평가 지표 : AUC로 지정
 * Logistic Regression, Lightgbm, Random forest 모델 비교
